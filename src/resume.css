@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+
+
+*{
+    padding:0px;
+}
+
+.main-cont{
+    background-image:  url();
+    background-size: 100vw;
+    display: flex;
+    padding: 50px;
+
+}
+
+.header {
+    display:flex;
+    margin: 0 auto;
+    width: 93%;
+    font-family:Pacifico;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+
+}
+
+#name1 {
+    font-size: 70px;
+    text-align: center;
+    filter: drop-shadow(0 0 0.75rem deeppink);
+    color: white;
+}
+
+
+
+
+#name{
+    font-size: 70px;
+    padding: 5px;
+    color: white;
+
+}
+.left{
+    width: 40%;
+    background-color: #FFCDD2;
+    background: linear-gradient(#ffb6c1,#fdf5e6	);
+
+    text-align: center;
+    padding-top: 25px;
+    font-family: Pacifico;
+    color:black;
+    font-size: 25px;
+
+
+}
+
+#footnote{
+    background-color: #FFCDD2;
+    background: linear-gradient(#ffb6c1,#fdf5e6);
+    margin: 0 auto;
+    width: 93%;
+    font-family:Pacifico;
+    display: flex;
+}
+
+#project{
+    padding: 25px;
+    font-size: 30px;
+    color:white;
+}
+
+
+
+#badge{
+padding: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.text
+
+
+
+.email {
+    width:30px;
+}
+
+.phone {
+    width:30px;
+}
+
+.cap  {
+    width:30px;
+}
+.right{
+    width: 70%;
+    background-color: #FFCDD2;
+    background: linear-gradient(#ffb6c1,#fdf5e6	);
+    padding: 50px;
+    font-family: Pacifico;
+
+
+}
+
+.topic{
+    color:white;
+    font-size: 40px;
+}
+
+
+
+.edu{
+    width:30px;
+}
+
+
+
+
+.image{
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+    filter: drop-shadow(0 0 0.75rem black);
+
+}
+
+.image:hover{
+
+
+}
+
+.projects{
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    /*transition: all 1s;*/
+}
+
+.projects:hover {
+    /*transform: rotate(-360deg) scale(1);*/
+    filter: grayscale(100%);
+    filter: contrast(-200%);
+    filter: drop-shadow(0 0 0.75rem black);
+
+}
+
+.hello {
+    text-align: center;
+    padding-right: 50px;
+
+#aboutme {
+    background-color: #FFCDD2;
+    background: linear-gradient(#ffb6c1,#fdf5e6);
+    margin: 0 auto;
+    width: 93%;
+    font-family:Pacifico;
+    display: flex;
+}
+
+
+
+
+
+}
+
